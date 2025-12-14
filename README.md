@@ -88,5 +88,4 @@ Kullanılan komutlar ve yapılandırma örnekleri `docs/commands-and-snippets.md
 ## Not
 Bu proje eğitim ve laboratuvar ortamı için hazırlanmıştır.
 
-## Teknik Dokümantasyon
-Kullanılan komutlar ve yapılandırma örnekleri `docs/commands-and-snippets.md` dosyasında yer almaktadır.
+
